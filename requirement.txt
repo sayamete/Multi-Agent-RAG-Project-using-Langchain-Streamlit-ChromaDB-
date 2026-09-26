@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-text-splitters
+chromadb
+sentence-transformers
+rank_bm25
+requests
+python-dotenv

@@ -1,0 +1,18 @@
+urls = [
+    "https://en.wikipedia.org/wiki/India",
+    "https://en.wikipedia.org/wiki/History_of_India",
+    "https://en.wikipedia.org/wiki/Geography_of_India",
+    "https://en.wikipedia.org/wiki/Politics_of_India",
+    "https://en.wikipedia.org/wiki/Economy_of_India",
+    "https://en.wikipedia.org/wiki/Demographics_of_India",
+    "https://en.wikipedia.org/wiki/Culture_of_India",
+    "https://en.wikipedia.org/wiki/Languages_of_India",
+    "https://en.wikipedia.org/wiki/States_and_union_territories_of_India",
+    "https://en.wikipedia.org/wiki/Constitution_of_India",
+    "https://en.wikipedia.org/wiki/Military_of_India",
+    "https://en.wikipedia.org/wiki/Science_and_technology_in_India",
+    "https://en.wikipedia.org/wiki/Sport_in_India",
+    "https://en.wikipedia.org/wiki/Education_in_India",
+    "https://en.wikipedia.org/wiki/Health_in_India",
+    "https://en.wikipedia.org/wiki/Virat_Kohli"
+]
