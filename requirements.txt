@@ -9,4 +9,8 @@ sentence-transformers
 rank_bm25
 requests
 python-dotenv
+<<<<<<< HEAD
 beautifulsoup4
+=======
+beautifulsoup4
+>>>>>>> fcff23fe6f4b6ca7bc8102153550b8281e8880fe
